@@ -1,4 +1,4 @@
-# # 👋 Hi, I’m Sebastian
+# 👋 Hi, I’m Sebastian
 
 I’m a Data Science student focused on applied machine learning and real-world problem solving.  
 I’m currently transitioning into data science, working on end-to-end projects that cover the full data science workflow, from data preparation and feature engineering to modeling and insight generation.
